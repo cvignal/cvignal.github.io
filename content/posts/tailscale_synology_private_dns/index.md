@@ -1,11 +1,11 @@
 ---
 title: "Private DNS with Synology and Tailscale"
 date: 2025-08-24T10:52:18+02:00
-summary: ""
+summary: "This article explains how to switch from static IPs + ports for your services to FQDN with HTTPS in Synology."
 tags: ["tailscale", "network", "dns", "synology", "selfhosted"]
 categories: []
 showSummary: true
-draft: true
+draft: false
 ---
 
 As we all know, network is fun! And what's even funnier in networking you may wonder? [DNS](https://isitdns.com/) of course!
